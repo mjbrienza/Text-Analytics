@@ -1,10 +1,11 @@
 # Text-Analytics
 
-# Tasks for 10/24
-- clean up bigram functionality (need to add lemmatizer) 
-- implemeting a correlated words algorithm (figure out what the score metrics are)
-- work on visualizing results (word cloud)
-- Plan out dashboard
+# Tasks for 11/7
+- Sentiment Analysis
+- Stemming Research
+- Frequency Counter for whole data sample (visualization)
+- Topic/Tag Generator 
+- Plan/Build dashboard
     - most commented on posts
     - most liked posts
     
